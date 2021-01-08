@@ -1,5 +1,5 @@
 # FACE-DETECTION
-FACE DETECTION using haarcascades OpenCV
+FACE DETECTION using haarcascades OpenCV (Using python programming language)
 
 ### STEPS TO FOLLOW TO CREATE A FACE DETECTION MODEL
 ##### STEP 1 : Load some pre_trained data on face frontals from opencv (haar cascade algorithm).
@@ -9,6 +9,7 @@ FACE DETECTION using haarcascades OpenCV
 ##### STEP 5 : Draw Rectange around face.
 ##### STEP 6 : Print Coordinates.
 ##### STEP 7 : Create a loop so it can determine more than one face.
+
 
 ### LIBRARY AND ALGORITHM USED
 
