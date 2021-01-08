@@ -12,3 +12,5 @@ FACE DETECTION using haarcascades OpenCV
 
 
 * OpenCV : It is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
+
+* Haar Cascade classifier is based on the Haar Wavelet technique to analyze pixels in the image into squares by function. ... Haar cascade classifier is based on the Viola-Jones detection algorithm which is trained in given some input faces and non-faces and training a classifier that identifies a face.
