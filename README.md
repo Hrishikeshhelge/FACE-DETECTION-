@@ -21,8 +21,3 @@
 
 ## FINAL RESULT
 
-* Before
-![](Suits.jpg)
-
-* after
-![](FINAL RESULT.png)
