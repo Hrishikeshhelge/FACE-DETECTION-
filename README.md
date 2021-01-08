@@ -6,5 +6,8 @@ FACE DETECTION using haarcascades OpenCV
 ##### STEP 2 : Choose an image to detect face in.
 ##### STEP 3 : Convert to gray scale - As the algorithm defines a face by difference in shade, not by in colour.
 ##### STEP 4 : Detect Faces - The pre-trained haarcascades algorithm determines the coordinates around the face.
-##### STEP 5 : Draw Rectange around face
-##### STEP 6 : Print Coordinates
+##### STEP 5 : Draw Rectange around face.
+##### STEP 6 : Print Coordinates.
+##### STEP 7 : Create a loop so it can determine more than one face.
+
+* Bullet list
