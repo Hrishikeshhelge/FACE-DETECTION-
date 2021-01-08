@@ -10,4 +10,5 @@ FACE DETECTION using haarcascades OpenCV
 ##### STEP 6 : Print Coordinates.
 ##### STEP 7 : Create a loop so it can determine more than one face.
 
-* Bullet list
+
+* OpenCV : It is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
